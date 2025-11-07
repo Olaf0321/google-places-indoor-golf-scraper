@@ -85,21 +85,6 @@ Google Places API へリクエスト
 
 ---
 
-## 📂 ファイル構成例
-
-google-places-indoor-golf-scraper/
-├── main.gs # メインロジック（メニュー・実行関数）
-├── fetchPlaces.gs # Google Places API連携処理
-├── output.gs # 結果出力およびCSV保存処理
-├── utils.gs # 補助関数・共通処理
-├── README.md
-└── screenshots/
-├── menu.png
-├── results_sheet.png
-└── csv_drive.png
-
----
-
 ## 🧾 デモ・サンプル
 
 - 📊 [デモスプレッドシート（閲覧用）](https://docs.google.com/spreadsheets/d/1ld_pRSNTG1ni-uqLju9SPJx3ccxb6b44EwvDca32oRE/edit?gid=644591532#gid=644591532)  
