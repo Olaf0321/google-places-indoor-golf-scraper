@@ -102,8 +102,8 @@ google-places-indoor-golf-scraper/
 
 ## 🧾 デモ・サンプル
 
-- 📊 [デモスプレッドシート（閲覧用）](https://docs.google.com/spreadsheets/d/XXXXXXX)  
-- 💾 [CSV出力例（Googleドライブ）](https://drive.google.com/file/d/XXXXXXX/view?usp=sharing)
+- 📊 [デモスプレッドシート（閲覧用）](https://docs.google.com/spreadsheets/d/1ld_pRSNTG1ni-uqLju9SPJx3ccxb6b44EwvDca32oRE/edit?gid=644591532#gid=644591532)  
+- 💾 [CSV出力例（Googleドライブ）](https://drive.google.com/file/d/1yHtIVS7p6wIMp8vsFOCb7ivRCEawItpv/view?usp=drive_link)
 
 ---
 
