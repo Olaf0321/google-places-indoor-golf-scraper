@@ -67,9 +67,6 @@ Google Places API へリクエスト
 ↓
 （オプション）CSVとしてDriveに保存
 
-yaml
-Copy code
-
 ---
 
 ## 🧰 実行方法
@@ -100,9 +97,6 @@ google-places-indoor-golf-scraper/
 ├── menu.png
 ├── results_sheet.png
 └── csv_drive.png
-
-yaml
-Copy code
 
 ---
 
